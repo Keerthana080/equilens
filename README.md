@@ -160,8 +160,8 @@ EQUILENS_DEFAULT_THRESHOLD_B=0.62
 
 ## Demo
 
-- 🔗 **Live Demo:** [your-demo-link-here]
-- 🎥 **Demo Video:** [your-video-link-here]
+- 🔗 **Live Demo:**  (https://drive.google.com/file/d/1m3isyDd-c9xCYTUzqFR5XA_njVtgn3Mo/view?usp=sharing)
+- 🎥 **Demo Video:** : https://equilens-theta.vercel.app
 
 ---
 
