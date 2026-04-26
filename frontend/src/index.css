@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+/* Nice slider styling on Chromium */
+input[type='range'] {
+  accent-color: #2563eb;
+}
